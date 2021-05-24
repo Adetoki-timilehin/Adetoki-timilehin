@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me ...on my emai at adetokitimilehin@gmail.com
+- 📫 How to reach me ...on my email at adetokitimilehin@gmail.com
 
 <!---
 Adetoki-timilehin/Adetoki-timilehin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
